@@ -1,0 +1,1 @@
+This will be a complete home inventory management system to track all household items from books and movies to food ingredients and recipes. Will include a lending library, Serial numbers, Expiration Dates, Receipt scans and warranty info.
